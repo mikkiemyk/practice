@@ -4,4 +4,4 @@
 # 参考になるかも
  - https://railstutorial.jp/
 
- thank you
+ - https://www.ruby-lang.org/ja/
