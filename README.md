@@ -4,4 +4,4 @@
 # 参考になるかも
  - https://railstutorial.jp/
 
- 
+ thank you
