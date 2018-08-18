@@ -1,2 +1,7 @@
 # practice
-hogehoge
+ - hogehoge
+
+# 参考になるかも
+ - https://railstutorial.jp/
+
+ 
