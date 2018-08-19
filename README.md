@@ -24,3 +24,18 @@ echo 'eval "$(pyenv init -)"' >> ~/.bash_profile
 
 source ~/.bash_profile
 ```
+
+
+## 3. install python3
+
+```install.sh
+# show all availavle Python versions 
+pyenv install --list
+
+# choose version what you need
+pyenv install 3.7.0
+
+# set global python version
+pyenv global 3.7.0
+```
+
